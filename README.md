@@ -1,2 +1,2 @@
 # User-generator
-Another vue project
+Another vue project I worked on learning vue
